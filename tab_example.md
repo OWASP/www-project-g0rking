@@ -8,7 +8,6 @@ tags: OSINT, Dorking, Reconnaissance
 
 ## Google Dorking
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
 Google Dorking or "Google hacking" involves using advanced operators in the Google search engine to locate specific errors of text within search results. Some of the more popular examples are finding specific versions of vulnerable Web applications. A search query with intitle:admbook intitle:Fversion filetype:php would locate all web pages that have that particular text contained within them. It is normal for default installations of applications to include their running version in every page they serve, for example, "Powered by XOOPS 2.2.3 Final".
 
 Devices connected to the Internet can be found. A search string such as inurl:"ViewerFrame?Mode=" will find public web cameras.
