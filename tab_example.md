@@ -25,4 +25,5 @@ The list of Google Dorks grew into a large dictionary of queries, which were eve
 Since its heyday, the concepts explored in Google hacking (sometimes referred to as Google Dorking) have been extended to other search engines, such as Bing and Shodan. Automated attack tools use custom search dictionaries to find vulnerable systems and sensitive information disclosures in public systems that have been indexed by search engines.
 
 [Reference Source - Wikipedia](https://en.wikipedia.org/wiki/Google_hacking)
+<br>
 [Reference Source - Exposing The Invisible](https://kit.exposingtheinvisible.org/en/how/google-dorking.html)
