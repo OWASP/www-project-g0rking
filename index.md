@@ -24,4 +24,4 @@ To create a vulnerability scoring system based on the findings.
 ## Getting Involved
 
 You can contribute to the project on [GitHub repository](https://github.com/BlueVirtualNerds/G0rKing). 
-If you have any questions feel free to reach out at prateek.bhattacharya [ at ] owasp.org
+If you have any questions feel free to reach out at prateek.bhattacharya@owasp.org
