@@ -3,7 +3,7 @@ title: What is Google Dorking?
 layout:  null
 tab: true
 order: 1
-tags: OSINT, Dorking, Reconnaissance
+tags: example-tag
 ---
 
 ## Google Dorking
