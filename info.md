@@ -1,17 +1,11 @@
 ### G0rKing Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
-
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* Incubator Project
+* Tool Project
+* Version 1.0
+* Builder
+* Breaker
 
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/PrateekOWASP/g0rking)
 
-### Change Log
-* [changes](#)
 
