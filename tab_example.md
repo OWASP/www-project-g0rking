@@ -21,4 +21,4 @@ You can use symbols or words in your search to make your search results more pre
 Google Search usually ignores punctuation that isn’t part of a search operator.
 Don’t put spaces between the symbol or word and your search term. A search for site:nytimes.com will work, but site: nytimes.com won’t.
 
-[Reference Source:Wikipedia](https://en.wikipedia.org/wiki/Google_hacking)
+[Reference Source - Wikipedia](https://en.wikipedia.org/wiki/Google_hacking)
