@@ -5,7 +5,7 @@ title: OWASP G0rKing
 tags: example-tag
 level: 2
 type: tool
-pitch: A tool for quickly analyzing the common vulnerabilities in your domain with the help of Google Dorking!!
+pitch: A tool for quickly analyzing the common vulnerabilities in your domain with the help of Google Dorking.
 
 ---
 
