@@ -6,6 +6,6 @@
 * Breaker
 
 ### Code Repository
-* [repo](https://github.com/PrateekOWASP/g0rking)
+* [repo](https://github.com/PrateekOWASP/G0rKing)
 
 
