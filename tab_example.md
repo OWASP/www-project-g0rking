@@ -1,12 +1,12 @@
 ---
-title: GoogleDorking
+title: Example
 layout:  null
 tab: true
 order: 1
 tags: example-tag
 ---
 
-## Google Dorking
+## What is Google Dorking ?
 
 When investigating, you often need to gather as much information as possible about a topic. Advanced search techniques can help to uncover files or leads that are relevant to the questions you are trying to answer. For example you may be able to find a company’s tax returns or a local government’s expenditure reports, information that may not appear on their websites or show up when you do a regular web search.
 
